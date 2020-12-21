@@ -4,10 +4,10 @@ Created Dec 2019
 ## Ingredients
 
 - 7 eggs, separated
-- 7 jiggers (1-1/3 cups) bourbon
-- 2 cups milk
-- 7 Tbsp (heaping) sugar
-- 1 pint heavy cream
+- 1 1/3 c bourbon
+- 2 c milk
+- 7 T (heaping) sugar
+- 1 pt heavy cream
 - Nutmeg, grated, to float on top of each cup
 
 ## Instructions
@@ -19,3 +19,4 @@ Created Dec 2019
 
 ## Footnotes
 - Makes about 8 servings. To look adequate in a silver punch bowl—and to serve more friends—you need two batches. Don't just double the recipe. Make one batch, clean the utensils, then make a second.
+- Update Dec 2020: Made this with 5 eggs instead of 7 and it turned out pretty well.
